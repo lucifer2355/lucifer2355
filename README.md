@@ -17,7 +17,6 @@
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -57,8 +56,8 @@
 <!-- </details> -->
 
 [website]: https://dhruvilgajjar.engineer
-[twitter]: https://twitter.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[twitter]: https://twitter.com/lucifer2355
+[instagram]: https://instagram.com/lucifer_2355
+[linkedin]: https://www.linkedin.com/in/dhruvil-gajjar-829b6b139/
 
 <!-- AQBpMXZ7YDzSZOldGVfR1PHqL_vQI79_R3LQuWEfvrqugT8QifDcxMyoYoMzCndrfV6Olx0WH2HxugLnZDZiWF0TwTvXitMPuyNd3vVFKifhnm4RA8hwgmD1dYRiD7cwD_zm-qd-QFyu4sxdEnWVHfAAvftYUU-DAUYBzQbEZ9mev1ToEK7MNv5GieOTTZAM_tMTpP3enAB0seSpWihd-gNCVN5ws1zumV9a4Wk8h3Fa4bVyrcE -->

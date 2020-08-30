@@ -48,7 +48,8 @@
 <br />
 
 <!-- <details> -->
-  <summary>:zap: Github Stats</summary>
+
+### :zap: Github Stats
 
   <img align="left" alt="lucifer's Github Stats" src="https://github-readme-stats.vercel.app/api?username=lucifer2355&show_icons=true&hide_border=true&count_private=true" />
 

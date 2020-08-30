@@ -47,14 +47,14 @@
 <br />
 <br />
 
-<details>
+<!-- <details> -->
   <summary>:zap: Github Stats</summary>
 
   <img align="left" alt="lucifer's Github Stats" src="https://github-readme-stats.vercel.app/api?username=lucifer2355&show_icons=true&hide_border=true&count_private=true" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucifer2355&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-</details>
+<!-- </details> -->
 
 [website]: https://dhruvilgajjar.engineer
 [twitter]: https://twitter.com/codeSTACKr

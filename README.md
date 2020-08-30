@@ -1,15 +1,14 @@
 ### Hi there, I'm Dhruvil - aka [lucifer][website] 👋
 
 [![Website](https://img.shields.io/website?label=dhruvilgajjar.engineer&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://dhruvilgajjar.engineer)
-[![Twitter Follow](https://img.shields.io/twitter/follow/lucifer2355?color=1da1f2&logo=Twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[![Twitter Follow](https://img.shields.io/twitter/follow/lucifer2355?color=1da1f2&logo=Twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Flucifer2355&screen_name=lucifer2355)
 
 ## I'm a Web & Mobile App Developer!
 
-- 🔭 I’m currently working on a [VS Code Course][website]!
+- 🔭 I’m currently working on a [Streaming Application][website]!
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🥅 2020 Goals: Find a remote job
+- ⚡ Fun fact: I like thinking while listening to music
 
 ### Spotify Playing 🎧
 
@@ -59,10 +58,7 @@
 
 [website]: https://dhruvilgajjar.engineer
 [twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://instagram.com/codeSTACKr
 [linkedin]: https://linkedin.com/in/codeSTACKr
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+
+<!-- AQBpMXZ7YDzSZOldGVfR1PHqL_vQI79_R3LQuWEfvrqugT8QifDcxMyoYoMzCndrfV6Olx0WH2HxugLnZDZiWF0TwTvXitMPuyNd3vVFKifhnm4RA8hwgmD1dYRiD7cwD_zm-qd-QFyu4sxdEnWVHfAAvftYUU-DAUYBzQbEZ9mev1ToEK7MNv5GieOTTZAM_tMTpP3enAB0seSpWihd-gNCVN5ws1zumV9a4Wk8h3Fa4bVyrcE -->

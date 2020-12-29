@@ -58,6 +58,6 @@
 [website]: https://dhruvilgajjar.engineer
 [twitter]: https://twitter.com/lucifer2355
 [instagram]: https://instagram.com/lucifer_2355
-[linkedin]: https://www.linkedin.com/in/dhruvil-gajjar-829b6b139/
+[linkedin]: https://www.linkedin.com/in/dhruvil-gajjar/
 
 <!-- AQBpMXZ7YDzSZOldGVfR1PHqL_vQI79_R3LQuWEfvrqugT8QifDcxMyoYoMzCndrfV6Olx0WH2HxugLnZDZiWF0TwTvXitMPuyNd3vVFKifhnm4RA8hwgmD1dYRiD7cwD_zm-qd-QFyu4sxdEnWVHfAAvftYUU-DAUYBzQbEZ9mev1ToEK7MNv5GieOTTZAM_tMTpP3enAB0seSpWihd-gNCVN5ws1zumV9a4Wk8h3Fa4bVyrcE -->

@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on a [Streaming Application][website]!
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Find a remote job
+- 🥅 2021 Goals: Find a remote job
 - ⚡ Fun fact: I like thinking while listening to music
 
 ### Spotify Playing 🎧

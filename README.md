@@ -5,7 +5,7 @@
 
 ## I'm a Web & Mobile App Developer!
 
-- 🔭 I’m currently working on a [Streaming Application][website]!
+- 🔭 I’m currently working on a [AI NEWS Application][website]!
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2021 Goals: Find a remote job
 - ⚡ Fun fact: I like thinking while listening to music

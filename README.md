@@ -29,9 +29,10 @@
 
   [![trophy](https://github-profile-trophy.vercel.app/?username=lucifer2355&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-  <img align="left" alt="lucifer's Github Stats" src="https://github-readme-stats.vercel.app/api?username=lucifer2355&count_private=true&show_icons=true&hide_border=true" />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucifer2355&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  <div>
+<img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=lucifer2355&count_private=true&include_all_commits=true&theme=onedark" alt="willdoescode" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucifer2355&layout=compact&theme=onedark&langs_count=15" />
+</div>
 
 <!-- </details> -->
 

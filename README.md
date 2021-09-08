@@ -52,6 +52,12 @@
 
 <!-- <details> -->
 
+<!-- 
+📊 &nbsp;**This week I spent my time on**
+
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=lucifer2355&hide_title=true&hide_border=true&langs_count=5) -->
+
+
 ### :zap: Github Stats
 
   [![trophy](https://github-profile-trophy.vercel.app/?username=lucifer2355&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)

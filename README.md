@@ -1,4 +1,4 @@
-### Hi there, I'm Dhruvil - aka [lucifer][website] 👋
+### Hi there, I'm Dhruvil - aka [lucifer][website] <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="20px">
 
 [![Website](https://img.shields.io/website?label=dhruvilgajjar.engineer&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://dhruvilgajjar.engineer)
 [![Twitter Follow](https://img.shields.io/twitter/follow/lucifer2355?color=1da1f2&logo=Twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Flucifer2355&screen_name=lucifer2355)
@@ -27,6 +27,7 @@
 ![React Native](https://img.shields.io/badge/-React%20Native-darkblue?style=flat-square&logo=react)
 ![Next JS](https://img.shields.io/badge/-Next.JS-black?style=flat-square&logo=next.js)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![Express JS](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
 ![Golang](https://img.shields.io/badge/-Golang-black?style=flat-square&logo=go)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)

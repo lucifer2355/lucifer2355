@@ -8,7 +8,6 @@
 - 🔭 I’m currently working on a [FINDER APP](https://github.com/lucifer2355/finder)!
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2021 Goals: Practicing data structure & algorithm as much as possible
-- ⚡ Fun fact: I like thinking while listening to music
 
 ### Connect with me:
 

@@ -5,9 +5,9 @@
 
 ## I'm a Web & Mobile App Developer!
 
-- 🔭 I’m currently working on a [FINDER APP](https://github.com/lucifer2355/finder)!
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: Practicing data structure & algorithm as much as possible
+- 🔭 I’m currently working on a [ResumeOnWeb](https://github.com/lucifer2355/ResumeOnWeb)!
+- 🌱 I’m currently learning optimize app bundler size.
+- 🥅 2023 Goals: Improve frontend app performance & Work on my physical health
 
 ### Connect with me:
 

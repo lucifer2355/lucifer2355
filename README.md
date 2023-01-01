@@ -6,7 +6,7 @@
 ## I'm a Web & Mobile App Developer!
 
 - 🔭 I’m currently working on a [ResumeOnWeb](https://github.com/lucifer2355/ResumeOnWeb)!
-- 🌱 I’m currently learning optimize app bundler size.
+- 🌱 I’m currently learning how to optimize app bundler size.
 - 🥅 2023 Goals: Improve frontend app performance & Work on my physical health
 
 ### Connect with me:

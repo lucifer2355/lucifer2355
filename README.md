@@ -1,4 +1,4 @@
-### Hi there, I'm Dhruvil - aka [lucifer][website] <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="20px">
+### Hi there, I'm Dhruvil <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="20px">
 
 [![Website](https://img.shields.io/website?label=dhruvilgajjar.engineer&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://dhruvilgajjar.engineer)
 [![Twitter Follow](https://img.shields.io/twitter/follow/lucifer2355?color=1da1f2&logo=Twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Flucifer2355&screen_name=lucifer2355)

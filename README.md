@@ -54,18 +54,18 @@
 
 ### :zap: Github Stats
 
-  [![trophy](https://github-profile-trophy.vercel.app/?username=lucifer2355&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=whodhruvil&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
   <div>
-<img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=lucifer2355&count_private=true&include_all_commits=true&theme=onedark" alt="willdoescode" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucifer2355&layout=compact&theme=onedark&langs_count=15" />
+<img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=whodhruvil&count_private=true&include_all_commits=true&theme=onedark" alt="willdoescode" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whodhruvil&layout=compact&theme=onedark&langs_count=15" />
 </div>
 
 <!-- </details> -->
 
 [website]: https://dhruvilgajjar.engineer
 [twitter]: https://twitter.com/lucifer2355
-[instagram]: https://instagram.com/lucifer_2355
+[instagram]: https://instagram.com/whodhruvil
 [linkedin]: https://www.linkedin.com/in/dhruvil-gajjar/
 
 <!-- AQBpMXZ7YDzSZOldGVfR1PHqL_vQI79_R3LQuWEfvrqugT8QifDcxMyoYoMzCndrfV6Olx0WH2HxugLnZDZiWF0TwTvXitMPuyNd3vVFKifhnm4RA8hwgmD1dYRiD7cwD_zm-qd-QFyu4sxdEnWVHfAAvftYUU-DAUYBzQbEZ9mev1ToEK7MNv5GieOTTZAM_tMTpP3enAB0seSpWihd-gNCVN5ws1zumV9a4Wk8h3Fa4bVyrcE -->
